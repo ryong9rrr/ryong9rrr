@@ -2,6 +2,12 @@
 
 안녕하세요! 용상윤이라고 합니다.
 
+Front-end Engineer(Junior)
+
+DKU Industrial Engineering (2013 ~ 2021)
+
+Programmers Dev-course 2th (2022.03 ~ )
+
 ### Blog
 
 🙋‍♂️[상윤에 대한 블로그(Notion)](https://www.notion.so/ryong9rrr/ebe3687569dd4b0492b7a28dca48d2a7)
