@@ -2,9 +2,9 @@
 
 안녕하세요! 용상윤이라고 합니다.
 
-Front-end Engineer(Junior)
+Front-end Engineer (Junior)
 
-DKU Industrial Engineering (2013 ~ 2021)
+DKU Industrial Engineering (2013.03 ~ 2021.08)
 
 Programmers Dev-course 2th (2022.03 ~ )
 
