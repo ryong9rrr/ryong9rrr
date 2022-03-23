@@ -10,7 +10,7 @@ Front-end Engineer (Junior)
 
 DKU Industrial Engineering (2013.03 ~ 2021.08)
 
-Programmers Dev-course 2th (2022.03 ~ )
+Programmers Dev-course 2nd (2022.03 ~ )
 
 ### Blog
 
