@@ -2,6 +2,10 @@
 
 안녕하세요! 용상윤이라고 합니다.
 
+Hello ! I'm Yong Sang Yoon.
+
+### About me
+
 Front-end Engineer (Junior)
 
 DKU Industrial Engineering (2013.03 ~ 2021.08)
