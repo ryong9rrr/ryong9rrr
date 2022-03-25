@@ -4,7 +4,7 @@
 
 Hello ! I'm Yong Sang Yoon.
 
-###🙋‍♂️ About me
+### 🙋‍♂️ About me
 
 Front-end Engineer (Junior)
 
@@ -12,14 +12,16 @@ DKU Industrial Engineering (2013.03 ~ 2021.08)
 
 Programmers Dev-course 2nd (2022.03 ~ )
 
-###✍ Blog
+### ✍ Blog
 
 **\<router>**
+
 1. [About me (notion)](https://www.notion.so/ryong9rrr/ebe3687569dd4b0492b7a28dca48d2a7)
 
 2. [Dev (TSTORY)](https://ryong9rrr.tistory.com/)
 
 3. [Algorithm (github-pages)](https://ryong9rrr.github.io/)
+
 **\</router>**
 
 <!--
