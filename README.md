@@ -6,7 +6,7 @@ Hello ! I'm Yong Sang Yoon.
 
 ### 🙋‍♂️ About me
 
-Front-end Engineer (Junior)
+To be Front-end Engineer.
 
 DKU Industrial Engineering (2013.03 ~ 2021.08)
 
