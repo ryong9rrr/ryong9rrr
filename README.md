@@ -22,7 +22,9 @@ Programmers Dev-course 2nd (2022.03 ~ )
 
 3. [tistory](https://ryong9rrr.tistory.com/)
 
-4. [velog](https://velog.io/@devsangyoon)
+<!--
+4. [velog](https://velog.io/@ryong9rrr)
+-->
 
 **\</Router>**
 
